@@ -1,0 +1,176 @@
+type,name,id
+transport,Abertis Infraestructuras S.A.,13421
+construction,ACS S.A.,13853
+consumption,adidas AG,96056
+chemical,Air Liquide S.A.,114953
+technology,Airbus Group SE,138312
+financial/insurance,Allianz SE,113397
+internet and media,Alphabet Inc. A,47417135
+technology,Amadeus IT Holding S.A.,5900105
+retail,"Amazon.com, Inc.",129667
+machine manufacturing industry,Andritz AG,526974
+technology,Apple Inc.,119334
+metalworking,ArcelorMittal,59286
+telecommunications,AT&T Inc.,15756042
+transport,Atlantia S.p.A.,2064501
+raw materials,Aurubis AG,106258
+consumption,Autogrill S.p.A.,14529
+financial/insurance,AXA S.A.,116950
+financial/insurance,Banco Bilbao Viz. Arg. S.A. (BBVA),18267
+chemical,BASF SE,96981
+chemical,Bayer AG,100579
+consumption,Beiersdorf AG,97240
+raw materials,BHP Billiton plc,130089
+automotive industry,"BMW AG St., Bayerische Motoren Werke",97172
+financial/insurance,BNP Paribas S.A.,124852
+financial/insurance,Caixabank S.A.,25434655
+retail,Carrefour S.A.,115851
+retail,CECONOMY AG St. (ex. METRO),108487
+technology,Cisco Systems Inc.,122455
+food ,Coca-Cola Co.,115203
+consumption,Colgate-Palmolive Co.,115216
+financial/insurance,Commerzbank AG,26279908
+automotive industry,Continental AG,98753
+chemical,Covestro AG,47928371
+automotive industry,Daimler AG,107741
+food ,Danone S.A. Groupe,115425
+consumption,De'Longhi S.p.A.,36298
+financial/insurance,Deutsche Bank AG,96929
+financial/insurance,Deutsche Börse AG,2753266
+transport,Deutsche Lufthansa AG,113136
+transport,Deutsche Post AG,99923
+telecommunications,Deutsche Telekom AG,99949
+real estate,Deutsche Wohnen AG,10473
+utilities,E.ON SE,7910800
+utilities,"EDF, Electricité de France",9617
+utilities,Enagás S.A.,39993
+utilities,ENEL S.p.A.,39978
+utilities,Engie S.A.,6871
+utilities,ENI S.p.A.,40012
+financial/insurance,Erste Group Bank AG,526950
+consumption,Essilor International S.A.,118707
+energy,Exxon Mobil Corp.,115901
+internet and media,Facebook Inc.,19772674
+automotive industry,Ferrari N.V.,12313649
+automotive industry,Fiat Chrysler Automobiles,34458093
+consumption,Fielmann AG,100763
+transport,Fraport AG,100778
+biotec/pharmaceutical,Fresenius Medical Care AG & Co. KGaA (FMC) St.,101012
+energy,Gas Natural SDG S.A.,44737
+technology,General Electric (GE) Co.,115401
+financial/insurance,Generali S.p.A. Assicurazioni,44588
+consumption,Geox S.p.A.,45359
+biotec/pharmaceutical,GlaxoSmithKline plc,138642
+transport,Hamburger Hafen und Logistik AG,4185928
+financial/insurance,Hannover Rück SE,113377
+construction,HeidelbergCement AG,103025
+chemical,Henkel KGaA Vz.,103050
+technology,HP Inc.,907335
+consumption,HUGO BOSS AG,20353499
+machine manufacturing industry,I.M.A. S.p.A.,50693
+utilities,Iberdrola S.A.,49660
+technology,IBM Corp.,115552
+consumption,Inditex S.A.,52060
+technology,Infineon Technologies AG,103854
+technology,Intel Corp.,116918
+financial/insurance,Intesa Sanpaolo S.p.A.,667544
+technology,Jenoptik,103828
+chemical,K+S AG,14475309
+machine manufacturing industry,Kion Group AG,26816199
+technology,Koninklijke Philips Electronics. N.V.,138661
+consumption,L'Oréal S.A.,116441
+construction,LafargeHolcim Ltd.,120282
+chemical,LANXESS AG,98863
+construction,LEGRAND SA Act. Prov. OPO,12192
+machine manufacturing industry,Linde AG,104971
+consumption,LVMH Moët Henn. - L. Vuitton SE,116158
+machine manufacturing industry,MAN SE,102413
+consumption,McDonald's Corp.,117249
+telecommunications,Mediaset S.p.A.,58903
+biotec/pharmaceutical,Merck KGaA,105365
+automotive industry,Michelin SCA,115236
+software,Microsoft Corp.,120518
+financial/insurance,MLP AG,105098
+consumption,Moncler S.p.A.,33312146
+biotec/pharmaceutical,MorphoSys AG,105679
+technology,MTU Aero Engines AG,4289
+financial/insurance,Münchener Rückversicherungs-Gesellschaft AG,113481
+financial/insurance,Natixis S.A.,3658508
+food ,Nestlé S.A.,7622181
+services,Netflix Inc.,99486
+consumption,Nike Inc.,119564
+technology,Nokia Oyj (Nokia Corp.),120502
+utilities,Nordex AG,3554
+biotec/pharmaceutical,Novartis AG,128954
+energy,OMV AG,526981
+telecommunications,Orange S.A.,129646
+technology,OSRAM Licht AG,28153732
+technology,Panasonic Corp.,116289
+consumption,Pernod Ricard S.A.,116189
+biotec/pharmaceutical,Pfizer Inc.,115731
+automotive industry,Porsche Automobil Holding SE Vz.,106954
+consumption,Procter & Gamble Co.,115771
+internet and media,ProSiebenSat.1 Media SE,29248643
+automotive industry,Renault S.A.,126061
+services,Reply S.p.A.,67395
+energy,Repsol YPF,67347
+biotec/pharmaceutical,RHÖN-KLINIKUM AG,107681
+raw materials,Rio Tinto plc,115802
+energy,Royal Dutch Shell (A),3988
+utilities,RWE AG St.,107643
+real estate,Sacyr S.A.,31440078
+construction,"Saint Gobain S.A., Compagnie de",120920
+metalworking,Salzgitter AG,103548
+biotec/pharmaceutical,Sanofi S.A.,133370
+software,SAP AG,107819
+technology,Schneider Electric SE,118177
+technology,SES S.A.,132001
+technology,Siemens AG,108179
+services,Sixt SE,108127
+energy,SNAM S.p.A.,77063
+internet and media,Snap Inc.,11679348
+software,Software AG,95024
+biotec/pharmaceutical,STADA Arzneimittel AG,108441
+consumption,Starbucks Corp.,123871
+internet and media,Ströer SE,9514633
+food ,Südzucker AG,108808
+telecommunications,Telefónica S.A.,81549
+automotive industry,Tesla Motors Inc.,9410465
+metalworking,thyssenkrupp AG,109270
+energy,TOTAL S.A.,115227
+automotive industry,Toyota Motor Corp.,116248
+services,TUI AG,84250
+financial/insurance,UBI Banca S.p.A.,1948289
+internet and media,Ubisoft Entertainment S.A.,128278
+financial/insurance,UBS Group AG,1193574
+financial/insurance,UniCredit S.p.A.,6337232
+food ,Unilever N.V.,12849
+internet and media,United Internet AG,96638
+utilities,Veolia Environnement S.A.,96156
+construction,Vinci S.A.,119688
+internet and media,Vivendi S.A.,102099
+telecommunications,Vodafone Group PLC,34704656
+metalworking,voestalpine AG,527029
+real estate,Vonovia SE,27884734
+automotive industry,"VW AG Vz., Volkswagen",110067
+chemical,WACKER CHEMIE AG,87921
+consumption,Walt Disney Co.,116928
+construction,Wienerberger AG,527015
+services,Wirecard AG,109034
+consumption,Yoox Net-A-Porter Group S.p.A.,13664632
+retail,Zalando SE,38709702
+machine manufacturing industry,Atlas Copco A,16777
+technology,Electrolux B,39753
+technology,Ericsson B,40452
+retail,"H&M AB, Hennes & Mauritz B",48564
+raw materials,"SCA AB, Svenska Cellulosa",73817
+machine manufacturing industry,SKF B,75689
+financial/insurance,Swedbank AB,375047
+telecommunications,Telia Company,51888080
+automotive industry,Volvo AB (B),87302
+No sector,"2,5% ThyssenKrupp 02/25",41572018
+No sector,"3,25% Bundesrep. Deutschland 07/21",12880960
+No sector,"4,125% EIB Europ. Invest. Bank 04/24",1773609
+No sector,DekaFonds TF,1181581
+No sector,Deka-Liquidität: EURO TF,163847
+No sector,Deka-UmweltInvest TF,660054
