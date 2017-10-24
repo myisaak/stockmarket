@@ -11,7 +11,7 @@ def get_securities():
 	with open('securities.csv', 'rb') as data:
 		reader = csv.reader(data, delimiter=',')
 		for row in reader:
-			content += "<div><img src='" + url + row[2]+"'/></div>"
+			content += "<div><b>"+row[1]+"</b><img class='lazyload' data-src='" + url + row[2]+"'></div>"
 	
 	return content
 
